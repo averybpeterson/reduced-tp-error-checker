@@ -3,7 +3,10 @@
 `ReducedTPErrorChecker.py` is a Python program provided as a companion tool to the manuscript *Accuracy and uncertainty analysis of reduced time point imaging effect on time-integrated activity for 177Lu-DOTATATE PRRT in clinical patients and realistic simulations* and can be used to check the expected time-integrated activity error for a given sampling schedule based on simulated TIA data<br><br>
 Program written by:<br>
 Avery B Peterson<br>
-Wayne State University & University of Michigan
+Wayne State University & University of Michigan<br><br>
+
+An archived release of the program can be referenced here:
+[![DOI](https://zenodo.org/badge/629593016.svg)](https://zenodo.org/badge/latestdoi/629593016)
 
 ## Installation
 
